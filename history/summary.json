@@ -22,18 +22,20 @@
     "url": "https://mka.thetchoum.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mka.thetchoum.com.ico",
     "slug": "aisstable",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 580,
-    "timeWeek": 602,
-    "timeMonth": 597,
-    "timeYear": 597,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 592,
+    "timeDay": 541,
+    "timeWeek": 589,
+    "timeMonth": 592,
+    "timeYear": 592,
+    "dailyMinutesDown": {
+      "2025-05-10": 16
+    }
   },
   {
     "name": "gohighlevel",
