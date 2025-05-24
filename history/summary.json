@@ -4,19 +4,19 @@
     "url": "https://myinnercircle.yannicktchoum.com/",
     "icon": "https://icons.duckduckgo.com/ip3/myinnercircle.yannicktchoum.com.ico",
     "slug": "kajabi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1068,
-    "timeDay": 710,
-    "timeWeek": 1417,
-    "timeMonth": 1108,
-    "timeYear": 1068,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1080,
+    "timeDay": 1088,
+    "timeWeek": 1423,
+    "timeMonth": 1120,
+    "timeYear": 1080,
     "dailyMinutesDown": {
-      "2025-05-24": 0
+      "2025-05-24": 15
     }
   },
   {
