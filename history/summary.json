@@ -6,15 +6,15 @@
     "slug": "kajabi",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1076,
-    "timeDay": 1215,
-    "timeWeek": 1402,
-    "timeMonth": 1130,
-    "timeYear": 1076,
+    "time": 1064,
+    "timeDay": 639,
+    "timeWeek": 1352,
+    "timeMonth": 1112,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2025-05-24": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 738,
-    "timeDay": 5471,
-    "timeWeek": 1307,
-    "timeMonth": 756,
-    "timeYear": 738,
+    "time": 732,
+    "timeDay": 487,
+    "timeWeek": 1318,
+    "timeMonth": 754,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2025-05-10": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 328,
-    "timeWeek": 350,
-    "timeMonth": 338,
-    "timeYear": 341,
+    "time": 339,
+    "timeDay": 268,
+    "timeWeek": 341,
+    "timeMonth": 333,
+    "timeYear": 339,
     "dailyMinutesDown": {}
   },
   {
