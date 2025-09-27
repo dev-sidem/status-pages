@@ -17,7 +17,7 @@
     "timeYear": 957,
     "dailyMinutesDown": {
       "2025-06-07": 69,
-      "2025-09-27": 1173,
+      "2025-09-27": 1180,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -137,7 +137,7 @@
     "url": "https://mka.thetchoum.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mka.thetchoum.com.ico",
     "slug": "aisstable",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "99.53%",
     "uptimeWeek": "99.93%",
